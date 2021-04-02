@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:libbambuser-0.9.20:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../build/libbambuser-0.9.20/.transforms/899975b8cdd0f1d6c2ae28f541f44964/jetified-libbambuser-0.9.20/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../build/libbambuser-0.9.20/.transforms/899975b8cdd0f1d6c2ae28f541f44964/jetified-libbambuser-0.9.20/res" />
+      <root url="file://$PROJECT_DIR$/../build/libbambuser-0.9.20/.transforms/899975b8cdd0f1d6c2ae28f541f44964/jetified-libbambuser-0.9.20/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_text_info1">Swipe Down to Stop</string>
+    <string name="cam_text_info2">\nDouble Tap to Flip Camera</string>
+    <string name="action_streaming">Your are now streaming live.</string>
+    <string name="action_to_start">Click play to start streaming.</string>
+    <string name="action_stream_end">Stream ended.</string>
+    <string name="action_connecting">Connection…</string>
+    <string name="finishing">Ending stream</string>
+    <string name="action_preparing">Preparing…</string>
+    <string name="action_reconnecting">Reconnection, please wait…</string>
+    <string name="health">Health %1$s</string>
+    <string name="obit_name">Elijah Tantoh</string>
+    <string name="obit_service_type">Memorial Service</string>
+    <string name="on_connection_error">%1$s : %2$s</string>
+    <string name="end_broadcast">END BROADCAST</string>
+    <string name="error_loading_resource">Error loading resource</string>
+    <string name="flip_your_phone">Please Flip Your\nPhone Horizontally</string>
+    <string name="start_camera_text">For the best experience,\nmaintain a horizontal view.</string>
+    <string name="go_live">GO LIVE</string>
+</resources>

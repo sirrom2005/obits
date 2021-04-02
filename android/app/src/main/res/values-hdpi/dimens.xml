@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="play_btn">62dp</dimen>
+    <dimen name="profile_dp">46dp</dimen>
+    <dimen name="profile_gap">60dp</dimen>
+    <dimen name="profile_gap_top_1">13dp</dimen>
+    <dimen name="profile_gap_top_2">33dp</dimen>
+    <dimen name="edge_margin">10dp</dimen>
+    <dimen name="text_size_1">14sp</dimen>
+    <dimen name="text_size_2">11sp</dimen>
+    <dimen name="text_size_end_broadcast">12sp</dimen>
+    <dimen name="text_padding_end_broadcast">10sp</dimen>
+</resources>

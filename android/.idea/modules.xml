@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libbambuser-0.9.20/android.libbambuser-0.9.20.iml" filepath="$PROJECT_DIR$/.idea/modules/libbambuser-0.9.20/android.libbambuser-0.9.20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-205481774/android.path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-205481774/android.path_provider_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1288958949/android.path_provider_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/1288958949/android.path_provider_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/658757286/android.shared_preferences_web.iml" filepath="$PROJECT_DIR$/.idea/modules/658757286/android.shared_preferences_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1524186960/android.shared_preferences_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/1524186960/android.shared_preferences_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/287692449/android.url_launcher_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/287692449/android.url_launcher_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-452258548/com.tekartik.sqflite.android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-452258548/com.tekartik.sqflite.android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-403478397/io.flutter.plugins.deviceinfo.android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-403478397/io.flutter.plugins.deviceinfo.android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/753648953/io.flutter.plugins.pathprovider.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/753648953/io.flutter.plugins.pathprovider.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1037089677/io.flutter.plugins.sharedpreferences.android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1037089677/io.flutter.plugins.sharedpreferences.android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-805976826/io.flutter.plugins.urllauncher.android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-805976826/io.flutter.plugins.urllauncher.android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-159074406/path_provider_macos-0.0.4+8.android.path_provider_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-159074406/path_provider_macos-0.0.4+8.android.path_provider_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/350106050/shared_preferences_linux-0.0.2+4.android.shared_preferences_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/350106050/shared_preferences_linux-0.0.2+4.android.shared_preferences_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1719003924/shared_preferences_macos-0.0.1+11.android.shared_preferences_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/1719003924/shared_preferences_macos-0.0.1+11.android.shared_preferences_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-122018413/url_launcher_linux-0.0.1+4.android.url_launcher_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-122018413/url_launcher_linux-0.0.1+4.android.url_launcher_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1467237097/url_launcher_macos-0.0.1+9.android.url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1467237097/url_launcher_macos-0.0.1+9.android.url_launcher_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/988792116/url_launcher_web-0.1.4+1.android.url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/988792116/url_launcher_web-0.1.4+1.android.url_launcher_web.iml" />
+    </modules>
+  </component>
+</project>
